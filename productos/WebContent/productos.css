@@ -1,0 +1,49 @@
+@charset "UTF-8";
+body{
+	background-color: orange;
+}
+section.seccion1{
+	background-color: white;
+}
+ol.lista{
+	list-style-type: Katakana-iroha;
+}
+
+nav{
+	background-color: lightblue;
+	padding-bottom: 30px;
+}
+.a:link{
+	color: blue;
+}
+.a:visited{
+	color: purple;
+}
+a{
+	border: 1px solid black;
+}
+p.enlaces{
+	box-sizing: content-box;
+	display: block;
+	background-color: lightblue;
+	height: 50px;
+	border: 1px solid black;
+}
+footer.pie{
+	text-align: center;
+	height: 50px;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	background-color: salmon;
+}
+span.amarillo{
+	background-color: yellow;
+}
+hr{
+	color: white;
+}
+h1.Steve{
+	color: white;
+	text-align: center;
+	font-family: 'Sriracha', cursive;
+}
